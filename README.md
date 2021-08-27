@@ -15,6 +15,7 @@
   ![Django REST](https://img.shields.io/badge/Django-REST-333333?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Docker-compose](https://img.shields.io/badge/-Docker--compose-333333?style=flat&logo=docker)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,7 +24,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![MaterialUI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui)
+  ![Material](https://img.shields.io/badge/-Material-333333?style=flat&logo=material-ui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
 - 🛢 &nbsp;
@@ -42,14 +43,17 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
+<h3>✨&nbsp;Principais projetos pessoais</h3>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
-</a>
-
-<br/>
+<p>
+  <a href="https://github.com/TechFring/ng-tech-boggler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/TechFring/simple-online-store">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
+  </a>
+</p>
 
 <h3>🤝🏻&nbsp;Contato</h3>
 
@@ -57,3 +61,10 @@
 <a href="https://www.linkedin.com/in/danilo-miranda-877851135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo%20Miranda-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:danilo030920@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
+</a>
