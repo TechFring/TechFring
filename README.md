@@ -59,13 +59,18 @@
 <h3>🤝🏻&nbsp;Contato</h3>
 
 <p>
-<a href="https://www.linkedin.com/in/danilo-miranda-877851135/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo%20Miranda-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:danilo030920@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/danilo-miranda-877851135/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo%20Miranda-blue?style=flat-square&logo=linkedin">
+   </a>
+
+  <a href="mailto:danilo030920@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
 </p>
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/TechFring">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
 </a>
