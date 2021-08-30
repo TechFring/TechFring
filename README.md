@@ -43,19 +43,7 @@
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-<h3>✨&nbsp;Principais projetos pessoais</h3>
-
-<p>
-  <a href="https://github.com/TechFring/ng-tech-boggler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/TechFring/simple-online-store">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
-  </a>
-</p>
-
+  
 <h3>🤝🏻&nbsp;Contato</h3>
 
 <p>
@@ -68,9 +56,23 @@
   </a>
 </p>
 
-<br/>
+<h3>✨&nbsp;Principais projetos pessoais</h3>
+
+<a href="https://github.com/TechFring/ng-tech-boggler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
+</a>
+
+<a href="https://github.com/TechFring/simple-online-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
+</a>
+
+<br />
+<br />
 
 <a href="https://github.com/TechFring">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
+</a>
+
+<a href="https://github.com/TechFring">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
 </a>
