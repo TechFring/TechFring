@@ -1,11 +1,13 @@
 <h2>Bem-vindo! Eu sou Danilo.</h2>
 
+
 <h3>👨🏻‍💻&nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Júnior na empresa GNSystems.
 - 📚 &nbsp; Pesquisador acadêmico na Universidade de Brasília
+
 
 <h3>🛠&nbsp;Stack</h3>
 
@@ -44,7 +46,32 @@
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
+
+
+<h3>✨&nbsp;Principais projetos pessoais</h3>
+
+<p>
+  <a href="https://github.com/TechFring/ng-tech-boggler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
+  </a>
+
+  <a href="https://github.com/TechFring/simple-online-store">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
+  </a>
+</p>
+
+
+<h3>🗠&nbsp;Estatísticas</h3>
+
+<a href="https://github.com/TechFring">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
+</a>
+
+<a href="https://github.com/TechFring">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
+</a>
+
+
 <h3>🤝🏻&nbsp;Contato</h3>
 
 <p>
@@ -56,24 +83,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
-
-<h3>✨&nbsp;Principais projetos pessoais</h3>
-
-<a href="https://github.com/TechFring/ng-tech-boggler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
-</a>
-
-<a href="https://github.com/TechFring/simple-online-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
-</a>
-
-<br />
-<br />
-
-<a href="https://github.com/TechFring">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
-</a>
-
-<a href="https://github.com/TechFring">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
-</a>
