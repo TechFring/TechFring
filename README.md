@@ -56,6 +56,12 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
     </a>
   </div>
+  
+  <div>
+    <a href="https://github.com/TechFring/ng-decbase">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-decbase&theme=dracula"/>
+    </a>
+  </div>
 
   <div>
     <a href="https://github.com/TechFring/ng-my-expenses">
