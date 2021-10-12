@@ -5,8 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Júnior na empresa GNSystems.
-- 📚 &nbsp; Pesquisador acadêmico na Universidade de Brasília.
+- 💼 &nbsp; Trabalhando como Analista de Desenvolvimento de Sistemas na empresa Code7.
 
 
 <h3>🛠&nbsp;Stack</h3>
