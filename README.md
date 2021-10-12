@@ -4,7 +4,7 @@
 <h3>👨🏻‍💻&nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
 - 💼 &nbsp; Trabalhando como Analista de Desenvolvimento de Sistemas na empresa Code7.
 
 
