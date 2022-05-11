@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em Análise e Desenvolvimento de Sistemas.
-- 💼 &nbsp; Trabalhando como Analista de Desenvolvimento de Sistemas na empresa Code7.
+- 💼 &nbsp; Trabalhando como Analista de Desenvolvimento de Sistemas na empresa Connvert.
 
 
 <h3>🛠&nbsp;Stack</h3>
