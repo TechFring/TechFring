@@ -9,7 +9,7 @@ Explorando novas tecnologias e desenvolvendo soluções de software.
 ```ts
 interface IDev {
   nome: string;
-  formacao: string;
+  formacoes: string[];
   areaAtuacao: string;
   empresa: string;
   tecnologias: string[];
@@ -17,10 +17,13 @@ interface IDev {
 
 const sobreMim: IDev = {
   nome: 'Danilo Miranda Ferreira', 
-  formacao: 'Graduado em Análise e Desenvolvimento de Sistemas',
+  formacoes: [
+    'Graduado em Análise e Desenvolvimento de Sistemas',
+    'Pós-graduando em Desenvolvimento Full Stack',
+  ],
   areaAtuacao: 'Desenvolvimento Front-end',
   empresa: 'Grupo Connvert',
-  tecnologias: ['Angular', 'RxJS', 'TypeScript', 'SASS'],
+  tecnologias: ['Angular', 'RxJS', 'TypeScript', 'SCSS', 'Git'],
 };
 ```
 
