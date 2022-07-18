@@ -26,16 +26,20 @@ const sobreMim: IDev = {
 
 ### **Principais projetos pessoais**
 
-<a href="https://github.com/TechFring/ng-tech-boggler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
+<a href="https://github.com/TechFring/ng-movies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-movies&theme=dracula"/>
 </a>
 
 <a href="https://github.com/TechFring/ng-decbase">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-decbase&theme=dracula"/>
 </a>
 
-<a href="https://github.com/TechFring/ng-my-expenses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-my-expenses&theme=dracula"/>
+<a href="https://github.com/TechFring/furnishop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=furnishop&theme=dracula"/>
+</a>
+
+<a href="https://github.com/TechFring/ng-tech-boggler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
 </a>
 
 <a href="https://github.com/TechFring/simple-online-store">
