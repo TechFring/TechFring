@@ -22,7 +22,7 @@ const sobreMim: IDev = {
     'Pós-graduando em Desenvolvimento Full Stack',
   ],
   areaAtuacao: 'Desenvolvimento Front-end',
-  empresa: 'Grupo Connvert',
+  empresa: 'Central Ailos',
   tecnologias: ['Angular', 'RxJS', 'TypeScript', 'SCSS', 'Git'],
 };
 ```
